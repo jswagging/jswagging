@@ -1,4 +1,4 @@
-<h1 align="center">"Hey dude, Have you ever heard of a jswagging?" -literally nobody</h1>
+<h1 align="center">"Hey dude, have you ever heard of a jswagging?" -literally nobody</h1>
 
 ###
 
