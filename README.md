@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">yo wassup im a guy who named himself jamer after eating 5 gallons of jam (not real)</h3>
+<h3 align="center">hello im a guy who named himself jamer after eating 5 gallons of jam (not real)</h3>
 
 ###
 
