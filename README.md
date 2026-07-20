@@ -22,6 +22,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
+<p>
+
+<p align="center">
+  <a href="https://github.com/jswagging">
+    <img height="145em" src="https://github-stats-extended.vercel.app/api/top-langs?username=jswagging&layout=compact&langs_count=4&theme=transparent" alt="Most Used Languages" />
+  </a>
+</p>
+
 ###
 
 <div align="center">
